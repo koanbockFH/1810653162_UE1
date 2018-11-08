@@ -27,8 +27,6 @@ public class Aufgabe5_18101653162
         *
         *  zahl++ auch post-increment genannt heißt das die variable zuerst
         *  verwendet wird und anschließend inkrementiert und gespeichert wird
-        *
-        *  Diese Operatoren haben eine hohe priorität und werden daher zuerst ausgeführt
          */
     }
 }
